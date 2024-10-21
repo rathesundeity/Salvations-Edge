@@ -22,8 +22,8 @@ When you spawn in go to 2nd encounter as fast as you can
 H3
 Wall trapped
 IF Hobgoblins
-Stay in first room to Izi Hydra
-Go middle to Izi Tormentor shoulder
+Clear adds in first room
+Go middle to help snipe shoulder
 Go furthest from trapped player (H4)
 Head to second room immediately to kill Minotaur
 Go to third room to golden gun overload
@@ -38,6 +38,7 @@ Call good or bad RNG
 If good you are sender
 Wait for send call, do one bounce, and grab resonance for box
 If bad kill minotaur and you are closer with one bounce
+Pop Cayde's to aniticipate Hydra
 Go middle and try to create special/heavy off Subjugator and adds
 
 --------------------------------------------------------------------------------
@@ -45,8 +46,8 @@ Go middle and try to create special/heavy off Subjugator and adds
 H4
 Corner Trapped
 IF Hobgoblins
-Stay in first room to Izi Hydra
-Go middle to Izi Tormentor shoulder
+Clear adds in first room
+Go middle to help snipe shoulder
 Go furthest from trapped player (H3)
 Head to second room immediately to kill Minotaur
 Go to third room to golden gun overload
@@ -61,6 +62,7 @@ Call good or bad RNG
 If good you are sender
 Wait for send call, do one bounce, and grab resonance for box
 If bad kill minotaur and you are closer with one bounce
+Pop Cayde's to antinipate Hydra
 Go middle and try to create special/heavy off Subjugator and adds
 
 --------------------------------------------------------------------------------
@@ -69,11 +71,12 @@ H5
 Corner Not Trapped
 IF Hobgoblins
 Stay in first room to Izi Hydra
-Go middle to Izi Tormentor shoulder
+Go middle to Izi shoulder
 Go further from trapped player
 Kill adds in first room
 Pick up buff in middle and listen for 2nd close room call
 Call send to close 2nd conductor
+Die after you close
 
 IF Attendants
 Kill adds in first room
@@ -91,11 +94,12 @@ H6
 Wall Not Trapped
 IF Hobgoblins
 Stay in first room to Izi Hydra
-Go middle to Izi Tormentor shoulder
+Go middle to Izi shoulder
 Go further from trapped player
 Kill adds in first room
 Pick up buff in middle and listen for 2nd close room call
 Call send to close 2nd conductor
+Die after you close
 
 IF Attendants
 Kill adds in first room
